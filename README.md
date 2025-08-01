@@ -1,7 +1,3 @@
-Here's a clean and simple `README.md` you can use for your GitHub repository:
-
----
-
 # Machine Learning Practice Exercises
 
 This repository contains my hands-on machine learning practice exercises as I learn and grow in the field. It includes small projects, experiments, and concept-based tasks using real or synthetic data.
